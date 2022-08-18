@@ -22,3 +22,16 @@ section {
 .wrapper {
 	width: calc(860px + 200px)
 }
+
+.highlight {
+	font-size: 0.8em;
+}
+
+h1, h2, h3 {
+  margin: 0 0rem 1rem;
+}
+
+/* hide date */
+.wrapper > section > small:nth-child(1) {
+	display: none;
+}
