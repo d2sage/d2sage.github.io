@@ -1,3 +1,6 @@
+---
+title:     "Dota 2 Sage"
+---
 
 # Site contents
 
